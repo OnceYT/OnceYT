@@ -1,4 +1,4 @@
-# Hey there, I'm [OnceYT](https://onceyt.github.io/)!
+# [Hey there, I'm OnceYT!](https://onceyt.github.io/)
 
 I'm an intermediate Python developer with a passion for creating useful and efficient software. As a 2nd year business major, I've gained valuable problem-solving and analytical skills that I apply to my coding projects.
 
