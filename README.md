@@ -4,4 +4,4 @@ I'm an intermediate Python developer with a passion for creating useful and effi
 
 I have experience working with a variety of programming languages including Python, HTML, JavaScript, and CSS. One of my more recent projects is a Discord bot built using the Discord.py library. Through this project, I've had the opportunity to work with various technologies and continue to improve my skills as a developer. Hit me up if you'd like a discord bot or perhaps collab on one!
 
-Feel free to reach me out at [my email](https://onceyt.github.io/links/mail), I'm always open to discussing new ideas and opportunities.
+Feel free to reach out at [my email](https://onceyt.github.io/links/mail), always open to discussing new ideas and opportunities.
