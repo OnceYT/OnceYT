@@ -1,7 +1,5 @@
-# [Hey there, I'm OnceYT!](https://onceyt.github.io/)
+## Hey there, I'm Once! <img src="https://github.com/user-attachments/assets/010387af-ad39-4c95-8874-a2a83b796ae2" width="28" height="28" />
 
-I'm an intermediate Python developer with a passion for creating useful and efficient software. As a final year business major, I've gained valuable problem-solving and analytical skills that I apply to my coding projects.
+I'm a business graduate with a passion for technology and software. I love learning new languages — both spoken and coded! As a self-taught programmer, I have learned and gained various project-based experiences working with Python, JavaScript and web structuring tools such as HTML and CSS. Some of my projects include various Discord bots serving diverse functionalities, a PyPI library for paginating Discord embeds and my personal landing site.
 
-I have experience working with a variety of programming languages including Python, HTML, JavaScript, and CSS. One of my more recent projects is a Discord bot built using the Discord.py library. Through this project, I've had the opportunity to work with various technologies and continue to improve my skills as a developer. Hit me up if you'd like a discord bot or perhaps collab on one!
-
-Feel free to reach out at [my email](https://onceyt.github.io/links/mail), always open to discussing new ideas and opportunities.
+Feel free to reach out at [my email](https://onceyt.github.io/links/mail) — always open to discussing new ideas and opportunities!
